@@ -33,7 +33,7 @@ The **Netflix Complete Portfolio Report** includes:
 - **SQL** – Querying structured datasets for deeper analysis  
 
 ## 📥 Download the Full Report
-📄 [Netflix Complete Portfolio Report](sandbox:/mnt/data/Netflix_Complete_Portfolio_Final.pdf)
+📄 [Netflix Complete Portfolio Report](sandbox:/mnt/data/Netflix_Complete_Portfolio_Final_Updated_Report_Analysis.pdf)
 
 ## 🚀 How to Use This Repository
 1. **Download the Full Report** to explore the analysis and insights.
@@ -43,4 +43,4 @@ The **Netflix Complete Portfolio Report** includes:
 ---
 💡 **Author:** Sulay Cay  
 📅 **Date:** February 8, 2025  
-🎯 **GitHub Repository:** _(Insert your repo link here)_
+🎯 **GitHub Repository:** _(https://github.com/sulay01)_
