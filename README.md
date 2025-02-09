@@ -66,7 +66,10 @@ ________________________________________________________________________________
 ![image](https://github.com/user-attachments/assets/f85a6eb8-848a-4c5e-8dfd-a845462527d1)
 
 💡 **Author:** Sulay Cay  
+
 📅 **Date:** February 8, 2025  
+
 🎯 **GitHub Repository:** _(https://github.com/sulay01)_
+
 📊 **Tableau:** _(https://public.tableau.com/app/profile/sulay.cay/vizzes)_
 
