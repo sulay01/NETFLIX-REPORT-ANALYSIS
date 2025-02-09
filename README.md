@@ -34,8 +34,8 @@ The **Netflix Complete Portfolio Report** includes:
 - **SQL** – Querying structured datasets for deeper analysis  
 
 ## 📥 Download the Full Report
-📄 [Netflix Complete Portfolio Report](sandbox:/mnt/data/Netflix_Complete_Portfolio_Final_Updated_Report_Analysis.pdf)
-   Netflix_Complete_Portfolio_Report_Analysis_.pdf
+📄 [Netflix Complete Portfolio Report](https://github.com/sulay01/NETFLIX-REPORT-ANALYSIS/blob/main/Netflix_Complete_Portfolio_Report_Analysis_.pdf)
+
 
 
 ## 🚀 How to Use This Repository
