@@ -28,7 +28,8 @@ The **Netflix Complete Portfolio Report** includes:
 
 ## 🛠️ Tools Used
 - **Python (Pandas, Matplotlib, Seaborn)** – Data cleaning, analysis, and visualizations  
-- **Power BI** – Interactive dashboards and advanced visual insights  
+- **Power BI** – Interactive dashboards and advanced visual insights
+- **Tableau** – Interactive dashboards and advanced visual insights 
 - **Excel** – Data extraction and structuring  
 - **SQL** – Querying structured datasets for deeper analysis  
 
@@ -44,3 +45,5 @@ The **Netflix Complete Portfolio Report** includes:
 💡 **Author:** Sulay Cay  
 📅 **Date:** February 8, 2025  
 🎯 **GitHub Repository:** _(https://github.com/sulay01)_
+📊 **Tableau:** _(https://public.tableau.com/app/profile/sulay.cay/vizzes)_
+
