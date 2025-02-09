@@ -22,7 +22,7 @@ This repository contains a comprehensive **Netflix Data Analysis Portfolio**, sh
 ## 📑 About the Report
 The **Netflix Complete Portfolio Report** includes:
 ✅ **Python & Power BI Analysis** (Data processing, visualization, and insights)  
-✅ **Power BI Visuals** (Interactive dashboards and data trends)  
+✅ **Power BI & Tableau Visuals** (Interactive dashboards and data trends)  
 ✅ **Netflix Titles Reports** (Exported structured metadata)  
 ✅ **Final Insights & Conclusions**  
 
