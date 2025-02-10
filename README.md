@@ -73,3 +73,4 @@ ________________________________________________________________________________
 
 📊 **Tableau:** _(https://public.tableau.com/app/profile/sulay.cay/vizzes)_
 
+## Resources: Google Data Analytics Professional 
